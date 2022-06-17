@@ -669,25 +669,7 @@
             "u"
             "t" ;
         }
-/*        
-        .b4{
-            background-color: rgb(63,65,77);
-            grid-area:w ;
-            display: flex;
-            justify-content: space-around;
-          
-        } */
-        /* .b5{
-            background-color: rgb(140,141,148);
-            grid-area: v;
-            display: flex;
-            justify-content: space-around;
-        } */
-        /* .b6{
-            background-color:rgb(243,243,243);
-            grid-area: u;
-           
-        } */
+
         .b7{
             background-color:rgb(252,39,121) ;
             grid-area: t;
@@ -706,14 +688,7 @@
         #img30{
            width: 550px;
         }
-        #div4{
-        margin-top: 60px;
-        margin-left: 80px;
-        }
-        #div5{
-            margin-top: 30px;
-            margin-right: 80px;
-        }
+        */
         #div41
         {
             height: 50px;
