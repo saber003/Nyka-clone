@@ -12,7 +12,7 @@ In this project we have tried to make a clone of <a href="https://www.Nykaa.com"
 
 Deployed using Netlify 
 
-<a href="https://stellular-macaron-eb7d67.netlify.app/" target="_blank">https://nykaaproject.netlify.app/</a>
+<a href="https://stellular-macaron-eb7d67.netlify.app/" target="_blank">https://stellular-macaron-eb7d67.netlify.app/</a>
 
 ### <u>Run Locally</u>
 
