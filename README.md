@@ -6,24 +6,20 @@ In this project we have tried to make a clone of <a href="https://www.Nykaa.com"
 
 <img width="98%" src="https://cdn-images-1.medium.com/max/1000/1*tARsM9iJqV4vCK9utXfLXQ.png" alt="" />
 
-<img width="98%" src="https://cdn-images-1.medium.com/max/1000/1*-EgyvEuVmrP2hmXqWqW0vg.png" alt="" />
-
-<img width="98%" src="https://cdn-images-1.medium.com/max/1000/1*cbiaXnyBgXOnvN0NB8l6Hg.png" alt="" />
-
 <div style='page-break-after: always'></div>
 
 ### <u>Deployed Link</u>
 
 Deployed using Netlify 
 
-<a href="https://nykaaproject.netlify.app/" target="_blank">https://nykaaproject.netlify.app/</a>
+<a href="https://stellular-macaron-eb7d67.netlify.app/" target="_blank">https://nykaaproject.netlify.app/</a>
 
 ### <u>Run Locally</u>
 
 Clone the project
 
 
-https://github.com/waghchaurepooja/nayaka/tree/main/nykaa%20clone/project
+https://github.com/saber003/Nyka-clone.git
 
 
 <div style='page-break-after: always'></div>
@@ -60,19 +56,16 @@ https://github.com/waghchaurepooja/nayaka/tree/main/nykaa%20clone/project
 ### <u>Credits :</u>
 
 
-<b>Pooja Waghchaure</b>
+<b>Saber Patel</b>
 
-> <a href="https://github.com/waghchaurepooja" target="_blank">Github</a>
+> <a href="https://github.com/saber003" target="_blank">Github</a>
 
-> <a href="https://www.linkedin.com/in/pooja-waghchaure/" target="_blank">Linkedin</a>
+> <a href="https://www.linkedin.com/in/saber-patel-616001230/" target="_blank">Linkedin</a>
 
 
 
 <b></b>
 
-> <a href="" target="_blank">Github</a>
-
-> <a href="" target="_blank">Linkedin</a>
 
 
 
@@ -80,4 +73,5 @@ https://github.com/waghchaurepooja/nayaka/tree/main/nykaa%20clone/project
 
 
 
-# Thank You :sparkling_heart:
+
+
